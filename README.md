@@ -13,15 +13,19 @@ To write a program to find the exponentiation of a number.
 
 ## Program:
 ```
-/*
-Program to find the exponentiation of a number.
-Developed by: 
-RegisterNumber: 
-*/
+#Program to to find the square root for the given number(newton's method) using function.
+#Developed by: Jegathish s
+#RegisterNumber: 21005410
+d=int(input())
+def exp():
+    x=d**2
+    return x
+print("Exponentiation of a given number:",exp())
 ```
 
 ## Output:
 ![exponentiation of a number](expo.png)
+![output](exp.png)
 
 
 ## Result:
